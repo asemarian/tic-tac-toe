@@ -50,6 +50,5 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE.md) 
 
 ## Acknowledgments
 
--   [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
--   [useWindowSize Hook](https://usehooks.com/useWindowSize/)
+-   [A simple README.md template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 -   [Socket.IO](https://socket.io/docs/v4)
